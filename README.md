@@ -16,7 +16,7 @@
         >>> gitclone https://github.com/guedes2142/Gerador-de-senhas.git<br>
         2: através do terminal caminhe até o diretório onde você clonou ou<br>
         baixou o arquivo e instale os requeriments.txt<br>
-        >>> pip install to-requirements. txt<br>
+        >>> pip install requirements.txt <br>
         3: Execute o arquivo através do terminal com o comando:<br>
         >>> python3 passwordgen.py </h4>
     
